@@ -1,0 +1,35 @@
+.Container {
+    height: 10rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+    background-color: var(--roxo);
+    color: white;
+
+    .Header {
+        width: 80%;
+        display: flex;
+        justify-content: center;
+    }
+
+    header {
+        width:100%;
+    }
+
+    .nav {
+        width: 85%;
+        justify-content: space-around;
+    }
+
+    a{
+        color: var(--verde) !important;
+        background: none !important;
+    
+        font-weight: bold;
+        font-size: 13px;
+    }
+
+}
+
+

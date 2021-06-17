@@ -1,0 +1,70 @@
+{
+  "produtos": [
+    {
+      "id": 0,
+      "title": "Tênis Adidas Originals Multix",
+      "price": "166",
+      "price_discount": "150",
+      "stal": "3"
+    },
+    {
+      "id": 1,
+      "title": "off-White Diag Zip Check Shirt",
+      "price": "120",
+      "price_discount": "100",
+      "stal": "2"
+    },
+    {
+      "id": 2,
+      "title": "off-White Parachute Cargo Pant",
+      "price": "180",
+      "price_discount": "165",
+      "stal": "3"
+    },
+    {
+      "id": 3,
+      "title": "Tênis Nike Air Firce 1 Low",
+      "price": "220",
+      "price_discount": "200",
+      "stal": "4"
+    },
+    {
+      "id": 4,
+      "title": "Tênis Adidas Originals Multix",
+      "price": "166",
+      "price_discount": "150",
+      "stal": "3"
+    },
+    {
+      "id": 5,
+      "title": "off-White Diag Zip Check Shirt",
+      "price": "120",
+      "price_discount": "100",
+      "stal": "2"
+    },
+    {
+      "id": 6,
+      "title": "off-White Parachute Cargo Pant",
+      "price": "180",
+      "price_discount": "165",
+      "stal": "3"
+    },
+    {
+      "id": 7,
+      "title": "Tênis Nike Air Firce 1 Low",
+      "price": "220",
+      "price_discount": "200",
+      "stal": "4"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
